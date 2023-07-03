@@ -7,7 +7,7 @@ Davos Bot, ele oferece recursos como respostas automáticas, gerenciamento de ta
 ![App Screenshot](https://media.discordapp.net/attachments/1123035221659496540/1123688029937209457/image.png?width=610&height=278)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAibHNfAwC-PiPWDDd1DRNxN6ZoT14uE2NsexvzydUjLNaZ0ZzEfX53uT_anVty4h4n4)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAibHNfAwC-PiPWDDd1DRNxN6ZoT14uE2NsexvzydUjLNaZ0ZzEfX53uT_anVty4h4n4)
+![Logo](https://www.cmswire.com/-/media/0970fd225daf4d42817f0fef9376f8f9.ashx)
 
 
 ## Roadmap
